@@ -1,0 +1,1 @@
+"""Game leaderboard server application."""
