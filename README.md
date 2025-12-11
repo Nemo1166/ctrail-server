@@ -1,5 +1,13 @@
 # Game Leaderboard Server
 
+## AIGC Statement
+
+This Project was built with GitHub Copilot (Claude Sonnet 4.5). For prompts or guides, view `design` folder please.
+
+本项目由 GitHub Copilot（Claude Sonnet 4.5）构建。如需提示或指南，请查看 `design` 文件夹。
+
+---
+
 基于 FastAPI 的游戏排行榜服务，使用 SQLite 数据库存储，uv 管理依赖。
 
 ## 功能特性
